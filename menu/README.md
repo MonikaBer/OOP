@@ -1,3 +1,5 @@
+Program wykorzystuje bibliotekę <ncurses.h>, która służy do tworzenia aplikacji konsolowych.
+
 Program jest implementacją struktury prostego menu (menu główne, podmenu, wybory jednoznaczne). W tym programie wybór jednoznaczny oznacza wypisanie na ekranie pewnego komunikatu.
 Interfejs umożliwia zwijanie/rozwijanie menu, dodawanie nowych podmenu oraz wyborów jednoznacznych.
 
